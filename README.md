@@ -5,3 +5,8 @@ The Resume Builder Application is a web-based tool built using Django, designed 
 - User-Friendly Interface
 - Basic Information Input
 - Instant Resume Generation
+
+
+![image](https://github.com/manishsingh-git/resume-mysite/assets/170594979/69a523fd-bffc-45b3-8437-03b6440c7a05)
+![image](https://github.com/manishsingh-git/resume-mysite/assets/170594979/7c1e7b36-0852-4407-a961-335326f1bfe2)
+
